@@ -19,6 +19,12 @@
   },
   "homepage": "https://github.com/N3330/ORM-E-Commerce-Backend#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
   }
 }
