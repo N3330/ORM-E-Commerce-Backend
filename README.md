@@ -7,7 +7,7 @@
 3. [Resources](#resources)
 
 ## Description
- Given a functional Express.js API when I add my database name, MYSQL username, and password to an enviroment variable file I am able to connect to my database using Sequelize. When I enter schema and see commands a development database is created and is seeded with test data. When I enter the command to invoke the application "nodemon" or "npm start" then my server is started and Sequelize models are synced to the MYSQL database. When I open API GET, PUT, POST and DELETE  in insomniaa for categories, products and tags the data for each of these routes is diplayed in formatted json or succesfully created, updated, and deleted in my database according to the route.
+ Given a functional Express.js API when I add my database name, MYSQL username, and password to an enviroment variable file I am able to connect to my database using Sequelize. When I enter schema and see commands a development database is created and is seeded with test data. When I enter the command to invoke the application "nodemon" or "npm start" then my server is started and Sequelize models are synced to the MYSQL database. When I open API GET, PUT, POST and DELETE  in insomniaa for categories, products and tags the data for each of these routes is diplayed in formatted json or succesfully created, updated, and deleted in my database according to the route. Watch the walkthrough video linked below to see the apps functionality.
 
 ## Visuals
 ![Get All Tags](/images/Get-All-Tags.png)
